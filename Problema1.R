@@ -44,7 +44,7 @@ mis_dades$cyl
 quantile(mis_dades$cyl,0.75)-quantile(mis_dades$cyl,0.25)
 IQR(mis_dades$cyl)
 boxplot(mis_dades$mpg)
-
+#desviacio tipica
 sd(mis_dades$cyl)
 #varianza
 var(mis_dades$qsec)
